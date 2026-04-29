@@ -6,6 +6,16 @@
 
 Projeto de análise de dados focado em métricas de um negócio baseado em assinaturas, utilizando SQL e Excel para explorar comportamento de clientes, receita e churn.
 
+## 🚀 Desenvolvimento do Projeto
+
+Este projeto foi desenvolvido completamente do zero, incluindo:
+
+- Modelagem da base de dados
+- Criação e simulação dos dados
+- Construção das queries em SQL
+- Análise das métricas de negócio
+- Desenvolvimento do dashboard no Excel
+
 🎯 Objetivo
 
 Analisar a base de clientes para entender:
