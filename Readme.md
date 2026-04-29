@@ -1,3 +1,7 @@
+## 📊 Dashboard
+
+![Dashboard](Dashboard.png)
+
 📊 Análise de Assinaturas
 
 Projeto de análise de dados focado em métricas de um negócio baseado em assinaturas, utilizando SQL e Excel para explorar comportamento de clientes, receita e churn.
